@@ -3,7 +3,7 @@
 
 * https://software.intel.com/en-us/articles/introduction-to-x64-assembly
 * [Parameter passing convention](https://msdn.microsoft.com/en-us/library/zthk2dkh.aspx)
-* [Overview of x64 Calling Conventions](https://msdn.microsoft.com/en-us/library/ms235286.aspx]
+* [Overview of x64 Calling Conventions](https://msdn.microsoft.com/en-us/library/ms235286.aspx)
 
 
 ## ml64 (MASM for x64)
